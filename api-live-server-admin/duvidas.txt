@@ -1,0 +1,14 @@
+Explicar melhor os presets de ADVANCED_XX:
+.HIGHER_BANDWIDTH_DELIVERY ->
+.CONSTRAINED_BANDWIDTH_DELIVERY ->
+
+Bitrate máximo por tipo de canal:
+.BASIC -> 
+.STANDARD ->
+.ADVANCED_SD ->
+.ADVANCED_HD ->
+
+É possível remover a limitação de 15.000 canais?
+Quanto tempo demora para as gravações estarem disponíveis?
+É possível gravar em mp4?
+Sempre é obrigatório colocar um exp nos tokens de authorização para lives privadas?
